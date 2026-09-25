@@ -1,0 +1,16 @@
+date,type,status,file,rows
+2016-01-01,equity,success,data/raw\equity\2016\01\BhavCopy_2016-01-01.zip,1467
+2016-01-01,index,success,data/raw\index\2016\01\ind_close_all_2016-01-01.csv,2
+2016-01-01,mto,success,data/raw\mto\2016\01\MTO_2016-01-01.DAT,1549
+2020-01-01,equity,success,data/raw\equity\2020\01\BhavCopy_2020-01-01.zip,1502
+2020-01-01,index,success,data/raw\index\2020\01\ind_close_all_2020-01-01.csv,2
+2020-01-01,mto,success,data/raw\mto\2020\01\MTO_2020-01-01.DAT,1739
+2024-07-08,equity,success,data/raw\equity\2024\07\BhavCopy_2024-07-08.zip,1909
+2024-07-08,index,success,data/raw\index\2024\07\ind_close_all_2024-07-08.csv,2
+2024-07-08,mto,success,data/raw\mto\2024\07\MTO_2024-07-08.DAT,2503
+2024-07-09,equity,success,data/raw\equity\2024\07\BhavCopy_2024-07-09.zip,1909
+2024-07-09,index,success,data/raw\index\2024\07\ind_close_all_2024-07-09.csv,2
+2024-07-09,mto,success,data/raw\mto\2024\07\MTO_2024-07-09.DAT,2520
+2024-08-01,equity,success,data/raw\equity\2024\08\BhavCopy_2024-08-01.zip,1913
+2024-08-01,index,success,data/raw\index\2024\08\ind_close_all_2024-08-01.csv,2
+2024-08-01,mto,success,data/raw\mto\2024\08\MTO_2024-08-01.DAT,2517

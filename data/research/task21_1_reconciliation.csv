@@ -1,0 +1,2 @@
+chain_valid,symmetric_prompt,symmetric_true,up_all_mean_gap,up_top25_mean_short,dn_all_mean_gap,dn_all_mean_long,top25_mean_gross,top25_mean_net,claim_reconstructed,placebo_net,diff,diff_tstat,diff_pval,cost_reconciled
+True,False,True,0.035797655761087704,0.008490703023409332,-0.022055917667358108,0.006695374987820941,0.008490703023409332,0.007126923023409332,True,0.005291851083490662,0.0018350719399186704,1.728553473437727,0.08419120832095622,True

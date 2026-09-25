@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "forge_tl"
+version = "0.1.0"
+description = "FORGE_TL: Systematic trading research and execution engine for Indian markets."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "numpy",
+    "duckdb",
+    "pyarrow",
+    "pydantic",
+    "python-dotenv",
+    "requests",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/example/forge_TL"

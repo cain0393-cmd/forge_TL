@@ -1,0 +1,577 @@
+
+========== prs\ind_prs16122019.pdf ==========
+DATE CTX: 
+1) NIFTY50 Value 20
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Reliance Industries Ltd.
+RELIANCE
+The following company is being included:
+Sr. No.
+Company Name
+Symbol
+1
+Zee Entertainment Enterprises Ltd.
+ZEEL
+E. Replacements on account of semi-annual review of indices:
+1)
+NIFTY Alpha Low-Volatility 30
+The following companies are being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Havells India Ltd.
+HAVELLS
+
+========== prs\ind_prs25022019.pdf ==========
+DATE CTX: changes shall become effective from March 29, 2019 (close of March 28, 2019).
+NIFTY 50
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Hindustan Petroleum Corporation Ltd.
+HINDPETRO
+The following company is being included:
+Sr. No.
+Company Name
+Symbol
+1
+Britannia Industries Ltd.
+BRITANNIA
+The above replacement will also be applicable to NIFTY50 Equal Weight Index.
+2)
+NIFTY Next 50
+The following companies are being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Aditya Birla Capital Ltd.
+ABCAPITAL
+
+========== prs\ind_prs28082019.pdf ==========
+DATE CTX: shall become effective from September 27, 2019 (close of September 26, 2019).
+NIFTY 50
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Indiabulls Housing Finance Ltd.
+IBULHSGFIN
+The following company is being included:
+Sr. No.
+Company Name
+Symbol
+1
+Nestle India Ltd.
+NESTLEIND
+The above replacement will also be applicable to NIFTY50 Equal Weight Index.
+2)
+NIFTY Next 50
+The following companies are being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+ABB India Ltd.*
+ABB
+
+========== prs\ind_prs02072020_1.pdf ==========
+DATE CTX: proposed voluntary delisting. The changes shall become effective from July 31, 2020 (close of
+NIFTY 50
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Vedanta Ltd.
+VEDL
+The following company is being included:
+Sr. No.
+Company Name
+Symbol
+1
+HDFC Life Insurance Company Ltd.
+HDFCLIFE
+The above replacements will also be applicable to NIFTY50 Equal Weight Index.
+2)
+NIFTY Next 50
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+HDFC Life Insurance Company Ltd.
+HDFCLIFE
+
+========== prs\ind_prs16032020.pdf ==========
+DATE CTX: (close of March 26, 2020). (close of March 26, 2020). However, in light of the recent developments relating to Yes Bank and the Gazette notification dated March 13, 2020 on ‘Yes Bank Limited Reconstruction w.e.f. Thursday, March 19, 2020 (close of March 18, 2020). Consequently, the changes in The changes shall become effective from March 19, 2020 (close of March 18, 2020).
+NIFTY 50
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Yes Bank Ltd.
+YESBANK
+The following company is being included:
+Sr. No.
+Company Name
+Symbol
+1
+Shree Cement Ltd.
+SHREECEM
+The above replacement will also be applicable to NIFTY50 Equal Weight Index.
+2)
+NIFTY Next 50
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Shree Cement Ltd.
+SHREECEM
+
+========== prs\ind_prs18022020.pdf ==========
+DATE CTX: effective from March 27, 2020 (close of March 26, 2020).
+NIFTY 50
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Yes Bank Ltd.
+YESBANK
+The following company is being included:
+Sr. No.
+Company Name
+Symbol
+1
+Shree Cement Ltd.
+SHREECEM
+The above replacement will also be applicable to NIFTY50 Equal Weight Index.
+2)
+NIFTY Next 50
+The following companies are being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Ashok Leyland Ltd.
+ASHOKLEY
+
+========== prs\ind_prs20082020.pdf ==========
+DATE CTX: Midcap 150 as of the cut-off date effective from September 25, 2020 (close of September 24, 2020).
+NIFTY 50
+The following companies are being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Bharti Infratel Ltd.
+INFRATEL
+2
+Zee Entertainment Enterprises Ltd.
+ZEEL
+The following companies are being included:
+Sr. No.
+Company Name
+Symbol
+1
+Divi's Laboratories Ltd.
+DIVISLAB
+2
+SBI Life Insurance Company Ltd.
+SBILIFE
+The above replacements will also be applicable to NIFTY50 Equal Weight Index.
+b)
+NIFTY Next 50
+The following companies are being excluded:
+
+========== prs\ind_prs23022021.pdf ==========
+DATE CTX: of stocks in various indices as part of its periodic review.  These changes shall become effective from March 31, 2021 (close of March 30, 2021).
+NIFTY 50
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+GAIL (India) Ltd.
+GAIL
+The following company is being included:
+Sr. No.
+Company Name
+Symbol
+1
+Tata Consumer Products Ltd.
+TATACONSUM
+The above replacements will also be applicable to NIFTY50 Equal Weight Index.
+2)
+NIFTY Next 50
+The following companies are being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Bank of Baroda
+BANKBARODA
+
+========== prs\ind_prs01092022.pdf ==========
+DATE CTX: changes shall become effective from September 30, 2022 (close of September 29, 2022).
+Nifty 50
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Shree Cement Ltd.
+SHREECEM
+The following company is being included:
+Sr. No.
+Company Name
+Symbol
+1
+Adani Enterprises Ltd.
+ADANIENT
+The above replacement will also be applicable to Nifty50 Equal Weight index.
+2)
+Nifty Next 50
+The following companies are being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Adani Enterprises Ltd.
+ADANIENT
+
+========== prs\ind_prs16092022.pdf ==========
+DATE CTX: 
+1) Nifty50 Shariah
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Shree Cement Ltd.
+SHREECEM
+The following companies are being included:
+Sr. No.
+Company Name
+Symbol
+1
+Adani Enterprises Ltd.
+ADANIENT
+2
+Apollo Hospitals Enterprise Ltd.
+APOLLOHOSP
+
+========== prs\ind_prs22022016_1.pdf ==========
+DATE CTX: 
+Nifty 50
+Existing
+6
+Nifty Next 50
+Existing
+7
+Nifty Midcap 50
+Existing
+8
+Nifty Full Midcap 100
+New
+9
+Nifty Smallcap 50
+New
+10
+Nifty Full Smallcap 100
+New
+11
+Nifty 200
+Existing
+The Nifty 500 index will comprise of top 500 companies based on full market
+capitalisation meeting the eligibility criteria. The constituents of Nifty 500 index are
+then classified based on full market capitalization into 3 indices namely Nifty 100,
+Nifty Midcap 150 and Nifty Smallcap 250. The constituents of these indices are
+classified into sub-indices based on liquidity and market capitalisation criteria.
+
+========== prs\ind_prs23082022.pdf ==========
+DATE CTX: effective from August 30, 2022 (close of August 29, 2022).
+1) Nifty50 Shariah
+The following company is being included:
+Sr. No.
+Company Name
+Symbol
+1
+Shree Cement Ltd.
+SHREECEM
+No exclusion is being made in the index.
+
+========== prs\ind_prs24022022_1.pdf ==========
+DATE CTX: trading as on the cut-off date after indices which currently mandates requirement of minimum of 3 months of listing for inclusion in the
+NIFTY 50
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Indian Oil Corporation Ltd.
+IOC
+The following company is being included:
+Sr. No.
+Company Name
+Symbol
+1
+Apollo Hospitals Enterprise Ltd.
+APOLLOHOSP
+The above replacement will also be applicable to NIFTY50 Equal Weight index.
+2)
+NIFTY Next 50
+The following companies are being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Apollo Hospitals Enterprise Ltd.
+APOLLOHOSP
+
+========== prs\ind_prs26072022.pdf ==========
+DATE CTX: These changes shall become effective from August 08, 2022 (close of August 05, 2022). realignment) with effect from August 08, 2022 (close of August 05, 2022).
+1) Nifty50 Shariah
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Britannia Industries Ltd.
+BRITANNIA
+The following companies are being included:
+Sr. No.
+Company Name
+Symbol
+1
+Tata Steel Ltd.
+TATASTEEL
+2
+Wipro Ltd.
+WIPRO
+
+========== prs\ind_prs04072023.pdf ==========
+DATE CTX: effective from July 13, 2023 (close of July 12, 2023).
+Nifty 50
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Housing Development Finance Corporation Ltd.
+HDFC
+The following company is being included:
+Sr. No.
+Company Name
+Symbol
+1
+LTIMindtree Ltd.
+LTIM
+The above replacement will also be applicable to Nifty50 Equal Weight index.
+2)
+Nifty 100
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Housing Development Finance Corporation Ltd.
+HDFC
+
+========== prs\ind_prs05092023.pdf ==========
+DATE CTX: NSE Indices Limited vide its press release dated July 17, 2023 had announced inclusion of Jio business from Reliance Industries Limited (RELIANCE) in various indices effective from July 20, 2023 (close of July 19, 2023). After demerger, JIOFIN was listed on August 21, 2023 at the National hereunder effective from September 7, 2023 (close of September 6, 2023).
+Nifty 50
+2
+Nifty 100
+3
+Nifty 200
+4
+Nifty 500
+5
+Nifty50 Equal Weight
+6
+Nifty100 Equal Weight
+7
+Nifty500 Multicap 50:25:25
+8
+Nifty Commodities
+9
+Nifty Energy
+10
+Nifty India Manufacturing
+11
+Nifty Infrastructure
+12
+Nifty LargeMidcap 250
+13
+Nifty Low Volatility 50
+
+========== prs\ind_prs05122023.pdf ==========
+DATE CTX: 
+1) Nifty 50 Net Total Return (INR)
+
+========== prs\ind_prs15092023.pdf ==========
+DATE CTX: 
+1) Nifty50 Shariah
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+Bharat Petroleum Corporation Ltd.
+BPCL
+No inclusion is being made in the index.
+
+========== prs\ind_prs17072023.pdf ==========
+DATE CTX: NSE vide its circular NSE/CMTR/57524 dated July 12, 2023 has announced special pre-open session effective from July 20, 2023 (close of July 19, 2023).
+Nifty 50
+2
+Nifty 100
+3
+Nifty 200
+4
+Nifty 500
+5
+Nifty50 Equal Weight
+6
+Nifty100 Equal Weight
+7
+Nifty500 Multicap 50:25:25
+8
+Nifty Commodities
+9
+Nifty Energy
+10
+Nifty India Manufacturing
+11
+Nifty Infrastructure
+12
+Nifty LargeMidcap 250
+13
+Nifty Low Volatility 50
+
+========== prs\ind_prs18052023.pdf ==========
+DATE CTX: 
+Nifty 50
+Arbitrage
+45%
+40%
+22%
+20%
+Nifty Medium
+Duration Debt
+-
+-
+22%
+20%
+Nifty
+REITs/InvITs
+-
+10%
+-
+10%
+The returns of the indices from July 01, 2019, shall remain the same as before.
+For more information on index methodology and factsheet, please visit us at www.niftyindices.com
+or www.nseindia.com
+
+========== prs\ind_prs20122023.pdf ==========
+DATE CTX: 
+Nifty 50
+2
+NZ Asset Management
+Japan
+Nifty 50
+3
+au Asset Management
+Japan
+Nifty 50
+4
+Sumitomo Mitsui Trust Asset Management Japan
+Nifty 50
+5
+Mirae Asset Global Investments
+Korea
+Nifty 50
+6
+Samsung Asset Management
+Korea
+Nifty 50
+7
+Samsung Asset Management
+Korea
+Nifty50 2x Leverage
+Presently, there are 21 Passive funds tracking Nifty Indices outside India. These products have been
+
+========== prs\ind_prs24072023.pdf ==========
+DATE CTX: 
+2) Nifty50 Shariah
+The following company is being included:
+Sr. No.
+Company Name
+Symbol
+1
+LTIMindtree Ltd.
+LTIM
+No exclusion is being made from the index.
+
+========== prs\ind_prs28022024.pdf ==========
+DATE CTX: changes shall become effective from March 28, 2024 (close of March 27, 2024).
+1) Nifty 50
+The following company is being excluded:
+Sr. No.
+Company Name
+Symbol
+1
+UPL Ltd.
+UPL
+The following company is being included:
+Sr. No.
+Company Name
+Symbol
+1
+Shriram Finance Ltd.
+SHRIRAMFIN
+UPL Ltd. has been removed from Nifty 50 pursuant to its exclusion from Nifty 100 index (a parent index for
+Nifty 50).  Replacement of stocks in Nifty 100 are listed out in A.4 below.
+Shriram Finance Ltd. has been included in Nifty 50 index as it has highest 6 month average free-float market
+capitalization within eligible universe as a replacement to UPL Ltd.
+The above replacement will also be applicable to Nifty50 Equal Weight index.
+
+========== prs\ind_prs30122024.pdf ==========
+DATE CTX: NSE vide its circular NSE/CMTR/65845 dated December 27, 2024 has announced special pre-open effective from January 06, 2025 (close of January 03, 2025).
+Nifty 50
+2
+Nifty 100
+3
+Nifty 200
+4
+Nifty 500
+5
+Nifty50 Value 20
+6
+NIFTY Alpha Low-Volatility 30
+7
+NIFTY Alpha Quality Low-Volatility 30
+8
+NIFTY Alpha Quality Value Low-Volatility 30
+9
+NIFTY LargeMidcap 250
+10
+NIFTY Quality Low-Volatility 30
+11
+NIFTY100 Quality 30
+12
+NIFTY200 Quality 30
+13
+NIFTY50 Equal Weight
