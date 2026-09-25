@@ -19,7 +19,7 @@ No purchases, subscriptions, or commercial feeds.
 **Provider:** GitHub (voletiramu)
 **Data Type:** 1-minute OHLCV (Spot Equity, Not F&O)
 **Date Range:** 2024-04-01 to 2026-04-30
-**Evaluation:** This dataset claims to provide F&O data, but actually provides underlying spot cash equity prices. It includes only 214 symbols active as of April 2026, meaning it is fundamentally contaminated with survivorship bias. It is also unclear if corporate actions are handled correctly.
+**Evaluation:** This dataset claims to provide F&O data, but actually provides underlying spot cash equity prices. It includes only 214 symbols active as of April 2026, meaning it is fundamentally contaminated with survivorship bias. It is also unclear if corporate actions are handled correctly. No futures or options data is present.
 **Classification:** REJECTED
 
 ## Candidate 2
@@ -63,27 +63,31 @@ No purchases, subscriptions, or commercial feeds.
 - **DhanHQ:** Free for trading, but requires ₹499/mo for Historical Data API.
 - **Fyers:** Free API, provides historical data similar to Upstox.
 - **Upstox:** Best free API candidate, offering data back to 2022 with expired F&O contract support.
+- **Angel One:** Only 30 days of 1-min history.
 
-## NSE Public-Source Investigation
+## NSE Public Source Investigation
 The NSE does **not** provide free intraday data. Its free historical data is strictly End-of-Day (EOD) Bhavcopies and indices. Any intraday order/trade data requires thousands of dollars in annual licensing fees via their paid data products. We will not scrape or bypass their commercial walls.
 
-## Candidate Comparison
-| ID | Source | Breadth | PIT Safe | Classification |
-|---|---|---|---|---|
-| C1 | voletiramu GitHub | High (214 EQ) | No | REJECTED |
-| C2 | rbhatia46 GitHub | Low (2 Index) | Yes | PARTIAL_CANDIDATE |
-| C3 | Upstox API | Very High | Yes | PARTIAL_CANDIDATE |
-| C4 | Angel One API | Very High | Yes (but short) | REJECTED |
-| C5 | Kaggle | Low (50 EQ) | No | REJECTED |
+## Futures Data Assessment
+Free historical futures intraday data is virtually non-existent in community datasets (GitHub/Kaggle). The only viable free source is the Upstox API, which allows fetching expired futures contracts by instrument token. This ensures there are no synthetic continuous contracts with undocumented roll methodologies, keeping the data PIT_FUTURES_SAFE. However, it requires a bespoke scraper.
+
+## Options Data Assessment
+Options data presents the same challenge as futures, but exponentially larger due to strike grids. Free community dumps of options data do not exist. The Upstox API supports fetching expired options contracts, but scraping a comprehensive options database at 1-minute resolution via a rate-limited API would take an unreasonable amount of time. Currently, comprehensive free options data is infeasible.
+
+## Pairs/Stat-Arb Data Feasibility
+For pairs trading or statistical arbitrage (e.g., HDFC Bank vs ICICI Bank, or Nifty Futures vs Nifty Cash), synchronized timestamps and sufficient granularity are critical. 
+- Community datasets (Kaggle/voletiramu) fail due to survivorship bias and missing delisted constituents.
+- Index data (C2) cannot be used for constituent pairs.
+- Upstox API (C3) could technically support it, provided the data is downloaded and aligned precisely, though corporate action adjustments on the cash leg must be carefully handled to avoid lookahead bias.
 
 ## PIT Assessment
-Almost all free community GitHub/Kaggle datasets fail PIT checks. They lack mapping of delisted companies, fail to record index constituent changes, and smooth over corporate actions without retaining unadjusted prices. Broker APIs (like Upstox) solve this by providing accurate historical ticks, provided you can resolve the expired instrument tokens.
+Almost all free community GitHub/Kaggle datasets fail PIT checks. They lack mapping of delisted companies, fail to record index constituent changes, and smooth over corporate actions without retaining unadjusted prices. Broker APIs (like Upstox) solve this by providing accurate historical ticks and expired derivatives, provided you can resolve the expired instrument tokens.
 
-## Licensing / Provenance Assessment
+## Licensing / Provenance
 Community datasets are uploaded as-is, often violating broker TOS. Broker APIs are explicitly licensed for personal use and API development, which fits our research budget perfectly, provided we accept the rate limits.
 
-## Storage / Access Assessment
-Scraping from an API (C3) will require minimal initial storage but significant execution time due to rate limits. Downloading GitHub repos requires minimal time but yields dirty data.
+## Storage / Access
+Scraping from an API (C3) will require minimal initial storage but significant execution time due to rate limits (25 requests/sec). Downloading GitHub repos requires minimal time but yields dirty data. We avoided any large multi-GB downloads during this discovery phase.
 
 ## Rejected Sources
 - `gsidhu/nse-intraday-data` (Task 25A - Severe Bias)
@@ -98,9 +102,9 @@ We have identified two partial candidates:
 2. **Upstox Free API**: The only viable path to a comprehensive, PIT-safe universe (Cash + F&O), requiring a bespoke slow-hydration pipeline.
 
 ## Final Decision
-**FINAL_DECISION = NO_FREE_PIT_INTRADAY_SOURCE**
+**NO_FREE_PIT_INTRADAY_SOURCE**
 (We do not have a single, monolithic, pre-packaged, fully research-ready free source).
 
-## Recommended Next Audit
+## Recommended Task 25C
 If the project requires broad cross-sectional equity/F&O intraday data, I recommend pivoting to build a slow-hydration historical ingestion pipeline using the **Upstox API**. 
 If the project only requires index trend research, **Candidate C2** can be used immediately.
